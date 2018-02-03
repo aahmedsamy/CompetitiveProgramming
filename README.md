@@ -16,4 +16,4 @@ List of contents:
  - UVA solutions
  - Live Archive solutions
  
- NOTE : I will continuously update it.
+ NOTE : This repo will be updated continuously.
