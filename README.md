@@ -1,4 +1,4 @@
-//It's all about what U BELIEVE
+//It's all about what U BELIEVE AND LOVE
 
 This repository will contain some of my work in competitive programming.
 
