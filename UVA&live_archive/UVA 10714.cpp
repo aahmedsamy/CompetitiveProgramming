@@ -14,8 +14,8 @@ int dy[]={ 0, 1, 0,-1, 1, 1,-1,-1};
 /*--------------MAIN FUNCTION--------------------*/
 int main()
 {
-	//ios_base::sync_with_stdio(false);
-	//cin.tie(NULL);
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
 	#ifndef ONLINE_JUDGE
 	readf
 	writef
