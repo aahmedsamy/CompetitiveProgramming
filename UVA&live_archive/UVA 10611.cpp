@@ -1,4 +1,4 @@
-//UVA 10026.cpp
+//UVA 10611.cpp
 #include<bits/stdc++.h>
 #define readf freopen("in" , "r" , stdin);
 #define writef freopen("out" , "w" , stdout);
