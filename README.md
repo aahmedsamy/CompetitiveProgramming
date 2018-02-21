@@ -16,5 +16,6 @@ List of contents:
 
  - UVA solutions
  - Live Archive solutions
+ - SPOJ
  
  NOTE : This repo will be updated continuously.
