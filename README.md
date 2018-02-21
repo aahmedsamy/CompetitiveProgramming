@@ -16,6 +16,6 @@ List of contents:
 
  - UVA solutions
  - Live Archive solutions
- - SPOJ
+ - SPOJ solutions (SPhere Online Judge)
  
  NOTE : This repo will be updated continuously.
